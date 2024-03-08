@@ -8,6 +8,7 @@ class Command {
    }
  
  }
+<<<<<<< HEAD
  // spec/command.spec.js
 
 let Command = require('../command');
@@ -30,4 +31,7 @@ describe('Command', () => {
   });
 });
 
+=======
+ 
+>>>>>>> 1fe6520699170ce29b40f4fde34dedeff4410a55
  module.exports = Command;
